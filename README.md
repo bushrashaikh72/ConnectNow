@@ -14,18 +14,6 @@ Back end is implemented using [Node JS](https://nodejs.org/en/docs), [Express JS
 This is a _responsive web application_ for viewing in both Mobile and Desktop.
 
 ```
-This is still a work in progress
-If you find any bugs you can report it to me.
-Pull requests are always welcome. For major changes, 
-please open an issue first to discuss what you would like to change.
-
-```
-
-### Few Screenshots
-
-![Homepage](/screenshots/1.png "Homepage")
-![Chatpage](/screenshots/2.png "Chatpage")
-![Groupchat](/screenshots/3.png "Groupchat")
 
 ## Features
 
